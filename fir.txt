@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 44ED-1D7E
+
+ Directory of C:\Users\esaukun\Desktop\firstproj
+
+10/31/2017  03:39 AM    <DIR>          .
+10/31/2017  03:39 AM    <DIR>          ..
+10/31/2017  03:39 AM                 0 fir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  278,323,429,376 bytes free
