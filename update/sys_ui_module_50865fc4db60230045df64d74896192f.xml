@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="sau">5c865fc4db60230045df64d74896192c</application>
+        <filter/>
+        <name>saus</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_172416_saurav.sau_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-10 06:44:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50865fc4db60230045df64d74896192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>saus</sys_name>
+        <sys_package display_value="saurav" source="x_172416_saurav">bf2a4700db20230045df64d748961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="saurav">bf2a4700db20230045df64d748961947</sys_scope>
+        <sys_update_name>sys_ui_module_50865fc4db60230045df64d74896192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-10 06:44:44</sys_updated_on>
+        <table>x_172416_saurav_sau</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
