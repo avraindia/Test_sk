@@ -16,4 +16,10 @@ node
     {
         echo "deployment is done"
     }
+    parallel firstBranch: {
+        echo "firstBranch executing" // do something
+    }, secondBranch: {
+        echo "second branch executing" // do something else
+    },
+    failFast: true|false
 }
